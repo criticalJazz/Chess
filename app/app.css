@@ -1,0 +1,21 @@
+body {
+    padding-top: 20px;
+}
+table, td{
+    border: 1px solid black;
+
+}
+th{
+background-color: #fff7cc;
+    width: 60px;
+    height: 60px;
+
+
+}
+td{
+
+    background-color: #ccff99;
+    width: 60px;
+    height: 60px;
+}
+
